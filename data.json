@@ -1,0 +1,266 @@
+[
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/07-GHOST"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/しゅごキャラ!"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/会長はメイド様!"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/夜桜四重奏_〜ヨザクラカルテット〜"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/C3_-シーキューブ-"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/Kiss×sis"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/カンピオーネ!"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/夢色パティシエール"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/A&G_REQUEST_デジスタ"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/妖狐×僕SS"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/機巧少女は傷つかない"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/怪盗レーニャ"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/DOG_DAYS"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/この中に1人、妹がいる!"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/俺の妹がこんなに可愛いわけがない_(アニメ)"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/鬼灯の冷徹"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/つり球"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/アクエリオンEVOL"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/うーさーのその日暮らし"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/てーきゅう"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/犬猫アワー_47都道府犬R&にゃ〜めん"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/超爆裂異次元メンコバトル_ギガントシューター_つかさ"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/神様のメモ帳"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/Fate/EXTRA"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/〈古典部〉シリーズ"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/さくら荘のペットな彼女"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/まよチキ!"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/ハイスクールD×D"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/ロウきゅーぶ!"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/織田信奈の野望"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/変態王子と笑わない猫。"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/最近、妹のようすがちょっとおかしいんだが。"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/超次元ゲイム_ネプテューヌ"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/Z/X"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/この部室は帰宅しない部が占拠しました。"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/カードファイト!!_ヴァンガード_(アニメ)"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/ガールフレンド（仮）"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/ブラック・ブレット"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/ヤマノススメ"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/下ネタという概念が存在しない退屈な世界"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/城下町のダンデライオン"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/聖剣使いの禁呪詠唱"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/クロスアンジュ_天使と竜の輪舞"
+    }
+  },
+  {
+    "animes": {
+      "type": "uri",
+      "value": "http://ja.dbpedia.org/resource/ユリ熊嵐"
+    }
+  }
+]
