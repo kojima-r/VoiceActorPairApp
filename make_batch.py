@@ -5,13 +5,14 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import json
 sparql = SPARQLWrapper("http://ja.dbpedia.org/sparql")
 sparql.setQuery("""
-  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT DISTINCT ?name ?animes
+SELECT DISTINCT ?name1 ?name2
 WHERE {
-  ?ln dbpedia-owl:wikiPageWikiLink <http://ja.dbpedia.org/resource/Category:声優> .
-  ?name dbpedia-owl:occupation ?ln .
-  ?animes dbpedia-owl:wikiPageWikiLink ?name .
-  ?animes ?p <http://ja.dbpedia.org/resource/プロジェクト:アニメ>.
+  ?name1 <http://ja.dbpedia.org/property/職業> <http://ja.dbpedia.org/resource/声優>.
+  ?name2 <http://ja.dbpedia.org/property/職業> <http://ja.dbpedia.org/resource/声優>.
+  ?name1 ?link ?anime.
+  ?name2 ?link ?anime.
+  ?anime ?p <http://ja.dbpedia.org/resource/プロジェクト:アニメ>.
+  FILTER(?name1 < ?name2).
 }
 """)
 sparql.setReturnFormat(JSON)
